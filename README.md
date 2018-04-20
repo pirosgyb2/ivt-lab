@@ -1,3 +1,3 @@
 # ivt-lab
 
-Kicsi valtoztatas.
+valtoztatas.
